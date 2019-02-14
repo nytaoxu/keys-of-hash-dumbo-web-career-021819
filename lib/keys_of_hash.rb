@@ -10,9 +10,3 @@ class Hash
     result
   end
 end
-
-def abc
-  p "123"
-end
-
-abc
