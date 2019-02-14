@@ -1,8 +1,9 @@
 class Hash
   def keys_of(arguments)
     # code goes here
-    result = Array.new
-    
-    result
+    puts "hello world" + " " + arguments
   end
 end
+
+hash = {}
+hash.keys_of('abc')
